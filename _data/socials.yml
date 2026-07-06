@@ -1,0 +1,7 @@
+# Social media links shown on the homepage and in search.
+# Fill in the usernames/IDs you have; delete or comment out the rest.
+cv_pdf: /assets/pdf/Madhav_Dhakal_CV.pdf
+email: madhav.dhakal@msstate.edu
+scholar_userid: juJXsPMAAAAJ # Google Scholar author ID (string after "user=" in the profile URL)
+rss_icon: false              # false hides the RSS / feed.xml icon
+# orcid_id removed on purpose — leaving it out hides the ORCID icon
